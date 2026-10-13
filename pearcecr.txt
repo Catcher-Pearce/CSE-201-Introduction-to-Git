@@ -1,3 +1,5 @@
 I really enjoy building small projects that solve problems for myself. One thing I built was anchor, which
-is a directory bookmarking utility for the fish shell. Something I'm currently workin on is relay, which is
-a peer to peer file sharing application written in c++.
+is a directory bookmarking utility for the fish shell.
+
+One thing I don't like is writing, I don't like the process of thinking up what I want to write and then
+researching for the paper is very annoying.
